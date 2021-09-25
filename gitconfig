@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cae224@cornell.edu
+	name = Camille Fujisaki
